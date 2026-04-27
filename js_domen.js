@@ -20,7 +20,7 @@ resources.forEach((resource) => {
 
 const sortedDomains = Array.from(domains).sort();
 sortedDomains.forEach((domain) => console.log(domain));
-=-------------------------------------------------------------------------------------------------
+//=-------------------------------------------------------------------------------------------------
 function listDomains() {
   const domains = new Set();
 
